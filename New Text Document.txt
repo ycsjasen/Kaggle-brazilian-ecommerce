@@ -1,0 +1,1 @@
+To create a script that uses Brazilian E-commerce data to give sellers recommendations on the their potential target audience
